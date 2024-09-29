@@ -3,7 +3,7 @@
 This repository contains code for performing Exploratory Data Analysis (EDA) and building Machine Learning (ML) models. The code is written in Python, using libraries such as Pandas, Matplotlib, Plotly, Scikit-learn, and others.
 
 #### Project Structure
-EDA_ML-Models.ipynb: Jupyter notebook that includes data analysis and machine learning models.
+eda-ml-models.ipynb: Jupyter notebook that includes data analysis and machine learning models.
 
 data/: Directory where datasets sydney.geojson and zomato_df_final_data.csv are stored.
 
