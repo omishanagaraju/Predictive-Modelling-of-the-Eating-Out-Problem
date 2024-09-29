@@ -21,9 +21,9 @@ The dataset contains 10,500 records of restaurants in Sydney, with details inclu
 
 ## Setup and Installation
 1. Clone the repository:
-git clone https://gitlab.com/omishanagaraju/predictive-modelling-of-the-eating-out-problem.git
+git clone https://github.com/omishanagaraju/Predictive-Modelling-of-the-Eating-Out-Problem.git
 
-2. On Terminal navigate to cd the directory predictive-modelling-of-the-eating-out-problem
+2. On Terminal navigate to the directory- cd Predictive-Modelling-of-the-Eating-Out-Problem
 
 2. Install the required dependencies:
 pip install -r requirements.txt
