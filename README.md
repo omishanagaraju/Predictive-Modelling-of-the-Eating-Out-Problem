@@ -21,16 +21,16 @@ The dataset contains 10,500 records of restaurants in Sydney, with details inclu
 
 ## Setup and Installation
 1. Clone the repository:
-git clone https://github.com/omishanagaraju/Predictive-Modelling-of-the-Eating-Out-Problem.git
-2. Navigate to the project directory:
-cd Zomato-Sydney
+git clone https://gitlab.com/omishanagaraju/predictive-modelling-of-the-eating-out-problem.git
 
-3. Install the required dependencies:
+2. On Terminal navigate to cd the directory predictive-modelling-of-the-eating-out-problem
+
+2. Install the required dependencies:
 pip install -r requirements.txt
 
 ## How to Run
 1. Open the Jupyter notebook:
-jupyter notebook EDA_and_ML_Models.ipynb
+jupyter notebook eda-ml-models.ipynb.ipynb
 
 2. Execute the notebook cells step by step to:
    
@@ -48,4 +48,3 @@ jupyter notebook EDA_and_ML_Models.ipynb
 **Exploratory Data Analysis:** The notebook includes various plots and statistical summaries to understand the dataset. Expect visualizations such as histograms, scatter plots, and heatmaps.
 
 **Machine Learning Models:** The notebook trains machine learning models to predict target variables. The output will include model performance metrics such as accuracy, precision, recall, and more depending on the type of model used.
-
