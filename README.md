@@ -21,7 +21,7 @@ The dataset contains 10,500 records of restaurants in Sydney, with details inclu
 
 ## Setup and Installation
 1. Clone the repository:
-git clone https://github.com/omishanagaraju/Predictive-Modelling-of-Eating-Out-Problem.git
+git clone https://github.com/omishanagaraju/Predictive-Modelling-of-the-Eating-Out-Problem.git
 2. Navigate to the project directory:
 cd Zomato-Sydney
 
